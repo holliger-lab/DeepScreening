@@ -1,0 +1,22 @@
+{
+    "experiment_id": "test_experiment",
+    "spot_detection_method": "local_max",
+    "spot_extraction_method": "psf_dot",
+    "normalise_ccd_strips": "False",
+    "log_images": "False",
+    "local_max_threshold": "800",
+    "sub_img_size": "7",
+    "max_cluster_intensity_threshold": "8000",
+    "alignment_subdiv_x": "512",
+    "alignment_subdiv_y": "5000",
+    "assignment_method": "direct",
+    "flowcell_type": "rapid_v2",
+    "process_tiles": "1_1101",
+    "tile_fastq_file_location": "extracted_tiles",
+    "chromatic_correction_image_location": "post_seq scan folder",
+    "pipeline_output_location": "./",
+    "experimental_image_location":
+    [
+        ["condition name", "scan location"]
+    ]
+}
