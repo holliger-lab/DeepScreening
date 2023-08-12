@@ -22,4 +22,4 @@ It contains the:
 
 ## License
 
-This software is distributed under the terms of a CC-BY-NC-ND licence.
+This software is distributed under the terms of a CC BY-NC-ND 4.0 licence.
