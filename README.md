@@ -1,6 +1,9 @@
-# DeepScreening
+# Deep Screening
+<p align="center">
+  <img src="./img/deepscreening.png" alt="Deep screening workflow" width="1100px" align="middle"/>
+</p>
 
-This is the source code accompaniment to the Deep Screening [paper]().
+Source code for Porebski et al., Nature Biomedical Engineering 2023.
 
 It contains the:
 - Analysis pipeline for processing a deep screening dataset.
@@ -20,6 +23,17 @@ It contains the:
 - pytorch_lightning
 - torchmetrics
 
-## License
 
-This software is distributed under the terms of a CC BY-NC-ND 4.0 licence.
+## BERT-DS model
+BERT-DS is a language model for the classification of antibody binding to HER2, given a heavy chain protein sequence. 
+
+<p align="center">
+  <img src="./img/bert-ds.png" alt="Deep screening workflow" height="512" align="middle"/>
+</p>
+
+## Datasets
+Datasets used in the deep screening paper can be found here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8241733.svg)](https://doi.org/10.5281/zenodo.8241733)
+
+## Licence
+
+This software and datasets are distributed under the terms of a CC BY-NC-ND 4.0 licence.
