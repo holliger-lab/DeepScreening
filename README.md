@@ -3,7 +3,7 @@
   <img src="./img/deepscreening.png" alt="Deep screening workflow" width="1100px" align="middle"/>
 </p>
 
-Source code for Porebski et al., Nature Biomedical Engineering 2023.
+Source code for Porebski et al., (2023) Rapid discovery of high-affinity antibodies via massively parallel sequencing, ribosome display and affinity screening. Nat. Biol. Eng., doi: [10.1038/s41551-023-01093-3](https://doi.org/10.1038/s41551-023-01093-3).
 
 It contains the:
 - Analysis pipeline for processing a deep screening dataset.
